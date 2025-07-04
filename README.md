@@ -11,7 +11,6 @@
 Pianinho que consegue tocar as 5 primeiras notas: Dó, Ré, Mi, Fá, Sol. Podemos tocar cada nota ao pressionar os botões e fazer os respectivos leds acenderem.
 
 ![foto do pianinho](pianinho.jpg.jpg)
-![video do pianinho](WhatsApp Video 2025-07-03 at 19.29.35.mp4)
 | Componentes | Quantidade |
 | ----------- | ---------- |
 | LEDs Vermelhos | 5 |
