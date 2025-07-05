@@ -20,5 +20,6 @@ Pianinho que consegue tocar as 5 primeiras notas: Dó, Ré, Mi, Fá, Sol. Podemo
 | Resistores 10k Ohm | 5 |
 | Resistores 1k Ohm | 5 |
 | Arduino Uno | 1 | 
-| Buzzer | 1 | 
+| Buzzer | 1 |
+
 [video do pianinho](https://drive.google.com/file/d/1jary2y_DS8xccijT0D4yYC6InhC3sIun/view?usp=sharing)
